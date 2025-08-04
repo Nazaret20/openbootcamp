@@ -40,16 +40,17 @@ El plan está diseñado para aprender paso a paso desde cero hasta poder constru
 
 ## 📈 Mi progreso
 
-| Semana | Tema principal               | ¿Hecho? | Notas                                                         |
-|--------|------------------------------|---------|---------------------------------------------------------------|
-| 1      | Fundamentos de JavaScript    | ✓       | Variables, funciones, arrays. Repasé lo básico sin problemas  |
-| 2      | JS avanzado                  | ✓       | Objetos, métodos, práctica con bucles y lógica condicional    |
-| 3      | HTML y CSS                   | ⬜       | Estructura semántica, formularios, enlaces e imágenes         |
-| 4      | Flexbox, Grid y animaciones  | ⬜       | Primer contacto con layouts modernos y transiciones en CSS    |
-| 5      | Introducción a React         | ⬜       | Composición de componentes, props y estados                   |
-| 6      | React avanzado + hooks       | ⬜       | useEffect, eventos, listas dinámicas                          |
-| 7      | Backend con Node.js          | ⬜       | Express, rutas, middlewares, y servidores básicos             |
-| 8      | Base de datos y APIs         | ⬜       | MongoDB/PostgreSQL, conexión con backend y REST APIs          |
+| Semana | Tema principal              | Estado | Descripción breve                                              |
+|--------|-----------------------------|--------|----------------------------------------------------------------|
+| 1      | Fundamentos JS              | ✓      | Variables, funciones, Git, y primeros pasos con JavaScript     |
+| 2      | Arrays, objetos y funciones | ⬜      | Manipulación de datos, introducción a Node y CSS básico        |
+| 3      | Modelos y métodos avanzados | ⬜      | Box Model, Flexbox, métodos de arrays y programación orientada |
+| 4      | ES6 y animaciones           | ⬜      | Funciones modernas, asincronía, animaciones y canvas           |
+| 5      | React básico                | ⬜      | Introducción a React, componentes, props y estado              |
+| 6      | React avanzado y backend    | ⬜      | Hooks, formularios, routing y Node.js con Express              |
+| 7      | Bases de datos y backend    | ⬜      | MongoDB, Mongoose, CRUD y manejo avanzado de rutas             |
+| 8      | Integración y despliegue    | ⬜      | Conexión React-Node, autenticación y certificado final         |
+
 
 ---
 
