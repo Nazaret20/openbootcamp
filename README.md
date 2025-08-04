@@ -42,8 +42,8 @@ El plan está diseñado para aprender paso a paso desde cero hasta poder constru
 
 | Semana | Tema principal               | ¿Hecho? | Notas                                                         |
 |--------|------------------------------|---------|---------------------------------------------------------------|
-| 1      | Fundamentos de JavaScript    | ⬜       | Variables, funciones, arrays. Repasé lo básico sin problemas  |
-| 2      | JS avanzado                  | ⬜       | Objetos, métodos, práctica con bucles y lógica condicional    |
+| 1      | Fundamentos de JavaScript    | ✓       | Variables, funciones, arrays. Repasé lo básico sin problemas  |
+| 2      | JS avanzado                  | ✓       | Objetos, métodos, práctica con bucles y lógica condicional    |
 | 3      | HTML y CSS                   | ⬜       | Estructura semántica, formularios, enlaces e imágenes         |
 | 4      | Flexbox, Grid y animaciones  | ⬜       | Primer contacto con layouts modernos y transiciones en CSS    |
 | 5      | Introducción a React         | ⬜       | Composición de componentes, props y estados                   |

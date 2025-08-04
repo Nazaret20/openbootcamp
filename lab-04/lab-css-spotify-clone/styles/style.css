@@ -1,0 +1,195 @@
+/*
+Colors:
+
+Text: 1A1A1A
+Green: #00B172
+White: #FFF
+
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #1a1a1a;
+}
+
+header {
+  height: 8rem;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 3rem 0 3rem;
+  position: fixed;
+  background-color: #fff;
+  z-index: 1;
+}
+
+.spotify-logo {
+  height: 5.5rem;
+}
+
+nav {
+  width: 45rem;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+li {
+  font-size: 1.7rem;
+}
+
+.hero {
+  position: relative;
+}
+
+.hero-img {
+  height: 100vh;
+  width: 100%;
+  display: block;
+}
+
+.hero-phrases {
+  width: 80rem;
+  height: 16rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  font-size: 7rem;
+  color: #fff;
+  margin-bottom: 2rem;
+}
+
+.first-phrase,
+.second-phrase {
+  font-size: 1.8rem;
+  color: #fff;
+}
+
+.what-on {
+  width: 100%;
+  margin-top: 4rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #00b172;
+  text-decoration-thickness: 0.3rem;
+  text-underline-offset: 1rem;
+}
+
+.div-what-on {
+  width: 75%;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 12rem auto;
+}
+
+.info-what-on {
+  width: 30%;
+  height: 23rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.icon-what-on {
+  height: 10rem;
+}
+
+h5 {
+  font-size: 2rem;
+  color: #00b172;
+  margin-top: 1rem;
+}
+
+.p-info-what-on {
+  width: 20rem;
+  margin-top: 2rem;
+  line-height: 2.5rem;
+  font-size: 1.7rem;
+  font-weight: 300;
+}
+
+.div-screenshot {
+  background-color: #00b172;
+  width: 80%;
+  padding: 6rem 0 6rem 0;
+  margin: 0 auto;
+  position: relative;
+}
+
+.screenshot-contain {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h3 {
+  font-size: 2.5rem;
+  color: #fff;
+  text-decoration: underline;
+  text-decoration-color: #fff;
+  text-decoration-thickness: 0.3rem;
+  text-underline-offset: 1rem;
+}
+
+.info-img-div-screenshot {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.info-div-screenshot {
+  width: 27%;
+  line-height: 2.5rem;
+  color: #fff;
+  font-size: 1.7rem;
+}
+
+h6 {
+  font-size: 2rem;
+  color: #fff;
+  margin-top: 3rem;
+}
+
+.p-info-screenshot {
+  margin-top: 3rem;
+  font-weight: 300;
+}
+
+.spotify-logo-white {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.screenshot {
+  width: 30%;
+}
